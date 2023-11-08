@@ -20,6 +20,13 @@ Experienced Frontend Programmer with expertise in HTML, CSS, JavaScript, and Rea
 
 ## Skills
 
+- Proficient in HTML, CSS, JavaScript, and React
+- Strong understanding of responsive design and accessibility
+- Experience with version control using Git
+- Familiarity with Agile development methodologies
+- Excellent collaboration and communication skills
+- Knowledge of English: full description of English proficiency moved to special skills section
+
 ## Special skills
 
 ## code example
