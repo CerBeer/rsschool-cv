@@ -18,6 +18,9 @@ Experienced Frontend Programmer with expertise in HTML, CSS, JavaScript, and Rea
 
 ## Certifications
 
+- Responsive Web Design Certification from FreeCodeCamp
+- JavaScript Algorithms and Data Structures Certification from Academy of Liberty
+
 ## Skills
 
 - Proficient in HTML, CSS, JavaScript, and React
@@ -29,7 +32,19 @@ Experienced Frontend Programmer with expertise in HTML, CSS, JavaScript, and Rea
 
 ## Special skills
 
+- Native Russian
+- Basic English
+- Driving License (Category B)
+- Flying License (no further than the orbit of the moon)
+- Hobbies: counting crows
+
 ## code example
 
+```
+function multiply(a, b){
+  return a * b
+}
+```
 ## My Projects
+[cv markdown](https://cerbeer.github.io/rsschool-cv/cv)
 
