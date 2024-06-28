@@ -64,3 +64,13 @@ Experienced Frontend Programmer with expertise in HTML, CSS, JavaScript, and Rea
 - Flying License (no further than the orbit of the moon)
 - Hobbies: counting crows
 
+## code example
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+## My Projects
+[cv markdown](https://cerbeer.github.io/rsschool-cv/cv)
+
