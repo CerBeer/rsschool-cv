@@ -33,4 +33,34 @@ Experienced Frontend Programmer with expertise in HTML, CSS, JavaScript, and Rea
 - Participated in code reviews to ensure quality and consistency
 - Gained experience in responsive design and accessibility
 
+## Education
+
+### Bachelor of Science in Computer Science
+
+*Anytown University*
+
+- Graduated May 2016
+- Relevant Coursework: Web Development, User Interface Design, Object-Oriented Programming
+
+## Certifications
+
+- Responsive Web Design Certification from FreeCodeCamp
+- JavaScript Algorithms and Data Structures Certification from Academy of Liberty
+
+## Skills
+
+- Proficient in HTML, CSS, JavaScript, and React
+- Strong understanding of responsive design and accessibility
+- Experience with version control using Git
+- Familiarity with Agile development methodologies
+- Excellent collaboration and communication skills
+- Knowledge of English: full description of English proficiency moved to special skills section
+
+## Special skills
+
+- Native Russian
+- Basic English
+- Driving License (Category B)
+- Flying License (no further than the orbit of the moon)
+- Hobbies: counting crows
 
