@@ -3,12 +3,12 @@
 }
 
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
 }
 
 a {
     color: #818f82;
-    text-decoration: none;  
+    text-decoration: none;
     transition: color 0.2s;
 }
 
